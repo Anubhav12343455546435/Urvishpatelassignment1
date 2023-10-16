@@ -1,0 +1,37 @@
+/*Custom css goes here*/
+.logo-image {
+    height: 90px;
+    width: 90px;
+    object-fit: contain;
+    border-radius: 45%;
+}
+
+.photo-image {
+    height: 258px;
+    width: 258px;
+    object-fit: contain;
+}
+
+.navstyle {
+    height: 35px;
+    padding: 0;
+    background-color: rgba(165, 194, 218, 0.4); /* Use rgba for better transparency control */
+}
+
+.footer-text {
+    font-size: large;
+}
+
+body {
+    background-image: url(../Assets/images/background.jpg);
+    color: black;
+    background-size: cover;
+}
+
+a {
+    color: antiquewhite;
+}
+
+.navbar {
+    background-color: white;
+}
